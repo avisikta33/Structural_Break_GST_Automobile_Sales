@@ -213,17 +213,13 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - Brown, R. L., Durbin, J., & Evans, J. M. (1975). "Techniques for Testing the Constancy of Regression Relationships Over Time"
 - Bai, J., & Perron, P. (2003). "Computation and Analysis of Multiple Structural Change Models"
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 👥 Authors
 
 **Souraj Chakraborty** & **Avisikta Das**
 
 ## 📧 Contact
 
-For questions or collaboration opportunities, please reach out to the authors.
+For questions or collaboration opportunities, please reach out to the authors souraj.bhu.stats26@gmail.com & avisikta.bhu.stats26@gmail.com.
 
 ---
 
